@@ -1,9 +1,13 @@
 # Pharmaceutical Sales Data Analysis
 ## Project Overview
-In this project, I analyzed pharmaceutical sales data. 
-Analysing sales data based on historical data is a very common data analysis task. This was a great way for me to review pandas and matplotlib libraries.
+Exploratory data analysis of pharmaceutical sales records using Python. Project based on the roadmap.sh pharmaceutical sales data guide.
 
-## Key Challenges Addressed
+## Source: 
+### Based on the roadmap.sh Pharmaceutical Sales Data project. 
+https://roadmap.sh/projects/pharmaceutical-sales-data
+
+## Project Goal: 
+### Perform data analysis on pharmaceutical sales records.
   1. What are the total sales quantities for each drug category (ATC code)?
   
   2. Which individual drug brands have the highest total sales?
@@ -31,5 +35,3 @@ Ensure you have pandas installed: pip install pandas.
 Ensure you have MatPlotLib installed: pip install matplotlib.
 
 Open Pharma_data_analysis.ipynb to view the step-by-step transformation.
-
-Project from: https://roadmap.sh/projects/pharmaceutical-sales-data
